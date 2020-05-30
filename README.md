@@ -1,2 +1,2 @@
-# Hacking-tico
+# Hacking-Ético
 GlobHack
